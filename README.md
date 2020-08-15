@@ -1,6 +1,9 @@
-# My Reading List for Papers in AI, NLP, Deep Learning and More.
+# My Reading List for Papers in AI, NLP, Recommendation System, Deep Learning, Statistics and More.
 
-#### Last Update: Sep 2019
+#### Last Update: Aug 2020
+
+## Recommendation System
+ - [Basic](./RS/RS_basic.md)
 
 ## Affective Computing (AC)
 
