@@ -1,7 +1,7 @@
 # Other Resource
 |Name|Organization|Remarks|Status
 |--|--|--|--|
-[[Tutorial]Deep Learning for Personalized Search and Recommender Systems](https://www.youtube.com/watch?v=0DYQzZp68ok&t=5066s)|KDD2017||60%|
+[[Tutorial] Deep Learning for Personalized Search and Recommender Systems](https://www.youtube.com/watch?v=0DYQzZp68ok&t=5066s)|KDD2017|State of the art RS system with deep learning at 2017|60%|
 
 
 

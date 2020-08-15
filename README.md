@@ -2,7 +2,7 @@
 
 #### Last Update: Aug 2020
 
-## Recommendation System
+## Recommendation System (RS)
  - [Basic](./RS/RS_basic.md)
  - [Other Resource](./RS/RS_other.md)
  
@@ -20,6 +20,7 @@
  - [**Sentiment Analysis**](./NLP/NLP_sentiment.md)
  - [Lexicon](./NLP/NLP_lexicon.md)
 
+
 ## Machine Learning (ML)
 
  - [Optimization](./ML/ML_optimization.md)
@@ -30,6 +31,12 @@
  - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
+
+## Reinforcement Learning (RL)
+
+ - [Other Resource](./RL/RL_other.md)
+ 
+ 
 ## Knowledge Representation (KR)
 
  - [Knowledge Graph](./KR/KR_graph.md)
