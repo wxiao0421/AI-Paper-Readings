@@ -4,14 +4,8 @@
 
 ## Recommendation System
  - [Basic](./RS/RS_basic.md)
-
-## Affective Computing (AC)
-
- - [Basic Theory](./AC/AC_theory.md)
- - [AC with Text](./AC/AC_text.md)
- - [AC with Image](./AC/AC_image.md)
- - [**AC with Physiological Signals (EEG, EMG and More)**](./AC/AC_physiological.md)
- - [AC with Multi-modal Data](./AC/AC_multimodal.md)
+ - [Other Resource](./RS/RS_other.md)
+ 
 
 ## Natural Language Processing (NLP)
 
@@ -41,7 +35,6 @@
  - [Knowledge Graph](./KR/KR_graph.md)
 
 
-<!---
 ## Computer Vision (CV)
  - [Reasoning](./KR/KR_reasoning.md)
  - [Image Classification](./CV/CV_classification.md)
@@ -49,6 +42,16 @@
  - [Visual Question Answering](./CV/CV_visual_QA.md)
  - [Image Captioning](./CV/CV_captioning.md)
  - [Image Generation](./CV/CV_generation.md)
+
+
+<!---
+## Affective Computing (AC)
+
+ - [Basic Theory](./AC/AC_theory.md)
+ - [AC with Text](./AC/AC_text.md)
+ - [AC with Image](./AC/AC_image.md)
+ - [**AC with Physiological Signals (EEG, EMG and More)**](./AC/AC_physiological.md)
+ - [AC with Multi-modal Data](./AC/AC_multimodal.md)
 --->
 
 <br/>
